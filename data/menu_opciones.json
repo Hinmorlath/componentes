@@ -4,7 +4,8 @@
         {
             "ruta" : "alert",
             "icon" : "add_alert",
-            "texto" : "Alertas"
+            "texto" : "Alertas",
+            "texto2" : "¿Qué quieres malnacido?"
         },
         {
             "ruta" : "inputs",
