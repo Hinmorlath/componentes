@@ -1,5 +1,6 @@
 {
     "nombreApp" : "Componentes 5a",
+    "iconApp": "icon",
     "rutas" : [
         {
             "ruta" : "alert",
